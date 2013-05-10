@@ -1,0 +1,1 @@
+A simple uptime monitor. Written in go as a first attempt at learning the language and playing with concurrency.
