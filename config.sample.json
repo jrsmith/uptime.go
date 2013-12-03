@@ -1,0 +1,15 @@
+{
+    "to_email": ["you@example.com"],
+    "domain_list": [
+        "http://google.com",
+        "http://facebook.com",
+        "http://reddit.com"
+    ],
+    "smtp": {
+        "username": "",
+        "password": "",
+        "from": "feeds@example.com",
+        "host": "smtp.example.com",
+        "outgoing_server": "smtp.example.com"
+    }
+}
